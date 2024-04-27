@@ -1,4 +1,4 @@
-```markdown
+
 # Image Mask Merger Tool
 
 This tool is a GUI application built with Python and Tkinter that allows you to merge images with corresponding masks, creating new images with a black background for the non-masked areas.
@@ -20,7 +20,12 @@ This tool is a GUI application built with Python and Tkinter that allows you to 
 
 ## Installation
 
-1. Clone the repository or download the source code.
+1. Clone the repository using Git:
+
+```bash
+git clone https://github.com/Maxiviper117/python-mask-image-merge.git
+```
+
 2. Install the required dependencies:
 
 ```bash
